@@ -2,7 +2,7 @@
 title: 'LightUrban: Similarity Based Fine-grained Instancing for Lightweighting Complex Urban Point Clouds'
 collection: publications
 category: manuscripts
-permalink: /publication/2024-08-19-paper-title-number-1
+permalink: /publication/2024-08-19-paper-number-1
 excerpt: ''
 date: 2024-08-19
 venue: 'Computer Graphics Forum'
