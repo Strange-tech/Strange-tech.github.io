@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "ZiangLu"
+title                    : "ZiangLu - Homepage"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : "https://strange-tech.github.io/"
+name                     : &name "Ziang Lu"
+description              : &description "Master's student in Tongji University"
+url                      : https://strange-tech.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://strange-tech.github.io/"
 
