@@ -4,12 +4,12 @@ title: >-
 authors:
   - Ziang Lu
   - Kang Du
-  - ZhangQian
-  - Dong Liang
-  - John Li
   - Xinyao Wei
-  - Zeyu Wang
-  - Jinyuan Jia
+  - ZhangQian
+  - John Li
+  - Dong Liang#
+  - Zeyu Wang#
+  - Jinyuan Jia#
 date: 2026-09-01
 pub: ECCV 2026
 cover: /assets/images/covers/cover_instgs.png

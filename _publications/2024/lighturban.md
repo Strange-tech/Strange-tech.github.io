@@ -5,7 +5,7 @@ authors:
   - Ziang Lu
   - Weidan Xiong
   - Peng Ren
-  - Jinyuan Jia
+  - Jinyuan Jia#
 date: 2024-11-01
 pub: Computer Graphics Forum 2024
 cover: /assets/images/covers/cover_lighturban.png
