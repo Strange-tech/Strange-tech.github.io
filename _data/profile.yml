@@ -34,15 +34,15 @@ education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
   logo: /assets/images/badges/HKUST.svg
   position: >-
-    Ph.D. Candidate
+    Ph.D. Candidate in Computational Media and Arts (CMA)
   date: Sep. 2026 - Present
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
-  position: M.Eng.
+  position: M.Eng. in Computer Science and Technology
   date: Sep. 2023 - Jul. 2026
 - name: Tongji University
   logo: /assets/images/badges/tongji.png
-  position: B.Eng.
+  position: B.Eng. in Software Engineering
   date: Sep. 2019 - Jul. 2023
 
 # experience:
@@ -52,5 +52,7 @@ education:
 #   date: Sep. 2022 - Jul. 2023
 
 awards:
-# - name: Award Name
-#   date: 2024
+- name: Outstanding Student of Tongji University
+  date: 2020-2021
+- name: First Prize Undergraduate Scholarship
+  date: 2020-2021
