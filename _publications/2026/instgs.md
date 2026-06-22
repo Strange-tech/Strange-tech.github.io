@@ -7,9 +7,9 @@ authors:
   - Xinyao Wei
   - ZhangQian
   - John Li
-  - Dong Liang#
-  - Zeyu Wang#
-  - Jinyuan Jia#
+  - Dong Liang✉
+  - Zeyu Wang✉
+  - Jinyuan Jia✉
 date: 2026-09-01
 pub: ECCV 2026
 cover: /assets/images/covers/cover_instgs.png
