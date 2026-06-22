@@ -22,8 +22,8 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a Ph.D. Candidate at The Hong Kong University of Science and Technology (Guangzhou).
-    My research interests lie in the broad area of computer science.
-    I am passionate about building innovative systems and advancing knowledge in my field.
+    I have conducted in-depth research on point cloud and 3DGS instance rendering.
+    Currently, my research interests lie in video and 3D full-scene generation and editing.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
