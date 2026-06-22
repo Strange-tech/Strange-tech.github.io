@@ -5,7 +5,7 @@ navbar_name: "Ziang Lu"
 positions:
 - name: Ph.D. Candidate
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/HKUST_GZ_logo.png
+  logo: /assets/images/badges/HKUST.svg
 
 email: "zianglu23@gmail.com"
 # cv_link: link-to-your-cv-file
@@ -32,13 +32,17 @@ portrait_caption: >-
 
 education:
 - name: The Hong Kong University of Science and Technology (Guangzhou)
-  logo: /assets/images/badges/HKUST_GZ_logo.png
+  logo: /assets/images/badges/HKUST.svg
   position: >-
     Ph.D. Candidate
-  date: present
-- name: Your Previous University
-  logo: /assets/images/badges/PKU_red.png
-  position: B.S. in Computer Science
+  date: Sep. 2026 - Present
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: M.Eng.
+  date: Sep. 2023 - Jul. 2026
+- name: Tongji University
+  logo: /assets/images/badges/tongji.png
+  position: B.Eng.
   date: Sep. 2019 - Jul. 2023
 
 # experience:
